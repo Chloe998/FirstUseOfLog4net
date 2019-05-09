@@ -1,3 +1,5 @@
+using log4net;
+
 namespace learnlog4net
 {
 
